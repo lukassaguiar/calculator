@@ -12,7 +12,7 @@ Calculadora
 <br>
 
 <p align="center">
-  <img src=".github/calculadora.jpg" width="100%">
+  <img src=".github/calculadora.png">
 </p>
 
 ## 🚀 Tecnologias
